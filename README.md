@@ -26,4 +26,4 @@ Create visualizations (e.g., bar charts, heatmaps) to illustrate the relationshi
 
 Outcome:
 
-The project will reveal critical insights into traffic accident patterns, enabling stakeholders—such as transportation authorities and urban planners—to implement targeted interventions aimed at improving road safety and reducing accidents in high-risk areas.
+The project will reveal critical insights into traffic accident patterns, enabling stakeholders such as transportation authorities and urban planners to implement targeted interventions aimed at improving road safety and reducing accidents in high-risk areas.
